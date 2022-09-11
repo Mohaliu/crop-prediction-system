@@ -1,1 +1,1 @@
-# crop-prediction-system
+A Machine Learning project that predicts the best crop to plant on a particular piece of land given a few chemical components and wheather condition of the soil. The features include: Nitrogen, Phosphorus, Potassium, temperature, soil pH, and rainfall. There are 22 different crops this model can predict and they include: Black Gram, Lentil, Apple, Maize, Mango, Pomegranate, Chickpea, Pawpaw, Watermelon, Moth Beans, Banana, Muskmelon, Cotton, Coconut, Coffee, Mung Beans, Pigeon Peas, Kidney Beans, Orange, Rice, Jute, Grapes.
